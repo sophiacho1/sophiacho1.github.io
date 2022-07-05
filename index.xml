@@ -5,32 +5,12 @@
     <link>https://sophiacho1.github.io/</link>
       <atom:link href="https://sophiacho1.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sophia Cho</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sophiacho1.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Sophia Cho</title>
       <link>https://sophiacho1.github.io/</link>
     </image>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>https://sophiacho1.github.io/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://sophiacho1.github.io/talk/example-talk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>The Federal Communications Commission’s Net Neutrality Pendulum: Bipartisan Congressional Legislation Can Stop It</title>
@@ -41,10 +21,50 @@
     </item>
     
     <item>
+      <title>Classifying Sounds</title>
+      <link>https://sophiacho1.github.io/talk/classifying-sounds/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://sophiacho1.github.io/talk/classifying-sounds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A West Side Story of Upward Mobility</title>
+      <link>https://sophiacho1.github.io/talk/a-west-side-story-of-upward-mobility/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sophiacho1.github.io/talk/a-west-side-story-of-upward-mobility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sexual Assault in Immersive Virtual Reality: Criminal Law Must Keep Up with Technology</title>
       <link>https://sophiacho1.github.io/publication/virtual-sexual-assault/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://sophiacho1.github.io/publication/virtual-sexual-assault/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of COVID-19 on Education</title>
+      <link>https://sophiacho1.github.io/talk/impact-of-covid-19-on-education/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://sophiacho1.github.io/talk/impact-of-covid-19-on-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Song Popularity</title>
+      <link>https://sophiacho1.github.io/talk/predicting-song-popularity/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://sophiacho1.github.io/talk/predicting-song-popularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gregory of Tours</title>
+      <link>https://sophiacho1.github.io/talk/gregory-of-tours/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sophiacho1.github.io/talk/gregory-of-tours/</guid>
       <description></description>
     </item>
     
